@@ -9,10 +9,6 @@ require __DIR__.'/vendor/autoload.php';
 
 //vars to fill out
 $token = '';
-$roleEmoji = [
-  /*'EmojiID'=>'RoleID'*/
-];
-
 $roleReactMessageID = [
     /*'MessageID'=>['EmojiID'=>'RoleID']*/
 ];
